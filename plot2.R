@@ -1,4 +1,4 @@
-# Plot 2
+# Plot 2  
 
 colnames = c("Date", "Time", "Global_active_power", "Global_reactive_power", 
 "Voltage", "Global_intensity", "Sub_metering_1", "Sub_metering_2", 
